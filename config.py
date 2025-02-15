@@ -1,0 +1,8 @@
+TENANT_ID = "be260a84-0301-4296-8976-9b876609e454"
+CLIENT_ID = "68826f88-a00f-4cfe-a12e-004f94b95cd0"
+CLIENT_SECRET = "HMU8Q~TRM3j8bKnO3idozACVXkaKRFpVlg21KaPI"
+WORKSPACE_ID = "f1fa71d4-3e0a-4992-a4f5-a12089caf254"
+REPORT_ID = "63a24ff0-2da7-4d39-baa4-865d9987af35"
+EMAIL_USER = "sanjeev.gupta7977@gmail.com"
+EMAIL_PASS = "xcsw uglt gehd zsvt"
+RECIPIENT_EMAIL = "sanjeev.gupta@aacipl.com"
