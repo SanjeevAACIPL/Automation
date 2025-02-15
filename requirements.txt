@@ -1,6 +1,5 @@
 streamlit
 requests
-smtplib
 email
 apscheduler
 selenium
