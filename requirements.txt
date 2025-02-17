@@ -3,4 +3,4 @@ requests
 apscheduler
 selenium
 python-dotenv
-chromium-chromedriver
+chromedriver-autoinstaller
