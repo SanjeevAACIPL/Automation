@@ -1,0 +1,6 @@
+Flask
+requests
+APScheduler
+selenium
+webdriver-manager
+pytz

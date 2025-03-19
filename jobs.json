@@ -1,0 +1,9 @@
+[
+    {
+        "id": "job_1",
+        "email": "manan.gandhi@aacipl.com",
+        "subject": "Weekly Sales Mailers",
+        "body": "Hi, \r\nPlease find the attached Sales Report,\r\nRegards,\r\nAACIPL",
+        "frequency": "weekly"
+    }
+]
